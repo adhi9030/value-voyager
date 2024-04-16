@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/value-voyager/static/css/main.904acc9d.css",
-    "main.js": "/value-voyager/static/js/main.81b7987f.js",
+    "main.css": "/value-voyager/static/css/main.96938f5a.css",
+    "main.js": "/value-voyager/static/js/main.60dc804e.js",
     "static/js/453.083351ca.chunk.js": "/value-voyager/static/js/453.083351ca.chunk.js",
     "index.html": "/value-voyager/index.html",
-    "main.904acc9d.css.map": "/value-voyager/static/css/main.904acc9d.css.map",
-    "main.81b7987f.js.map": "/value-voyager/static/js/main.81b7987f.js.map",
+    "main.96938f5a.css.map": "/value-voyager/static/css/main.96938f5a.css.map",
+    "main.60dc804e.js.map": "/value-voyager/static/js/main.60dc804e.js.map",
     "453.083351ca.chunk.js.map": "/value-voyager/static/js/453.083351ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.904acc9d.css",
-    "static/js/main.81b7987f.js"
+    "static/css/main.96938f5a.css",
+    "static/js/main.60dc804e.js"
   ]
 }
